@@ -16,3 +16,4 @@ Test penggunaan git
 - Membuka project yang sudah di clone lewat cammand line
 - Merubah file
 - Mengirimkan file ke repo Github
+- Edit readme.md from repo
