@@ -17,3 +17,11 @@ Test penggunaan git
 - Merubah file
 - Mengirimkan file ke repo Github
 - Edit readme.md from repo
+
+## Menggunakan GIT bersama Team
+- Mulai bekerja dengan melihat ke Issue Tracker
+- Bekerja tidak pada branch master, namun pada branch tersendiri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Memngubah code pada branch tersebut
+- Meng-commit kode
+- mem-push branch tersebut
