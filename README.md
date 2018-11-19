@@ -18,6 +18,15 @@ Test penggunaan git
 - Mengirimkan file ke repo Github
 - Edit readme.md from repo
 
+
+## Menggunakan GIT bersama Team
+- Mulai bekerja dengan melihat ke Issue Tracker
+- Bekerja tidak pada branch master, namun pada branch tersendiri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Memngubah code pada branch tersebut
+- Meng-commit kode, dan mereview perubahan terlebih dahulu
+- mem-push branch tersebut
+
 ## Kesimpulan
 - Dapat mempermudah kerja secara tim
 - Dapat menjadi portofolio untuk progremmer
