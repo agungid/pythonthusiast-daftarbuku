@@ -17,3 +17,7 @@ Test penggunaan git
 - Merubah file
 - Mengirimkan file ke repo Github
 - Edit readme.md from repo
+
+## Kesimpulan
+- Dapat mempermudah kerja secara tim
+- Dapat menjadi portofolio untuk progremmer
